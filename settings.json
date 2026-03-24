@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "twojastarap123l.aternos.me",
-    "port": 55125,
+    "ip": "Anarchia_dzidzi.aternos.me",
+    "port": 18458,
     "version": "",
     "try-creative": false
   },
@@ -65,8 +65,8 @@
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": true,
-    "auto-eat": true
+    "attack-mobs": false,
+    "auto-eat": false
   },
   "beds": {
     "pick-up-day": false,
@@ -82,6 +82,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
